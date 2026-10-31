@@ -2,9 +2,6 @@
 
 A Python machine-learning project for preparing phishing website data and training a classifier. The repository contains a staged pipeline for data ingestion, schema and drift validation, feature transformation, and model training. The target column is `Result`; the expected feature schema is documented in [`data_schema/schema.yaml`](data_schema/schema.yaml).
 
-## Project source
-
-This local clone is based on [CodeR-6-9/network-security](https://github.com/CodeR-6-9/network-security). Refer to the upstream repository for its history and applicable project license. Preserve relevant attribution and license notices when redistributing or modifying this code.
 
 ## Repository contents
 
